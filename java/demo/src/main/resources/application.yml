@@ -2,3 +2,8 @@ server:
   port: 2021
   servlet:
     context-path: /demo
+spring:
+  security:
+    user:
+      name: admin
+      password: 123456
