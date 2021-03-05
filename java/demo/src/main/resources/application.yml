@@ -1,0 +1,4 @@
+server:
+  port: 2021
+  servlet:
+    context-path: /demo
