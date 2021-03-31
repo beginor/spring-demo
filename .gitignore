@@ -34,3 +34,8 @@ out/
 
 ### VS Code ###
 .vscode/
+
+## spring config file
+
+application.yml
+application.properties
