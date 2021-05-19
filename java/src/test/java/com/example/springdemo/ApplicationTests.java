@@ -1,5 +1,6 @@
 package com.example.springdemo;
 
+import com.example.springdemo.security.Sha256PasswordEncoder;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

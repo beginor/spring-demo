@@ -8,3 +8,6 @@ spring:
     username: postgres
     password: your_password
     driver-class-name: org.postgresql.Driver
+  security:
+    filter:
+      order: 10

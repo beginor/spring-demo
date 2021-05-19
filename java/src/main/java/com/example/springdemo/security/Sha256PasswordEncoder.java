@@ -1,4 +1,4 @@
-package com.example.springdemo;
+package com.example.springdemo.security;
 
 import org.springframework.security.crypto.password.PasswordEncoder;
 
